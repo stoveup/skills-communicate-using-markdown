@@ -20,3 +20,10 @@ hello(null) {
 }
 ```
 or something along those lines.
+
+TO DO:
+- [x] Add headings
+- [x] Add Image
+- [x] Add code
+- [ ] Add checklist
+- [ ] Other...
